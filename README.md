@@ -61,27 +61,23 @@
 
 ---
 
-### 📊 Languages I Use Most
+### 📊 GitHub Stats & Languages  
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theodevrwanda&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40" alt="theodevrwanda" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical" alt="theodevrwanda stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theodevrwanda&layout=compact&theme=radical&langs_count=8" alt="theodevrwanda languages" height="180"/>
 </p>
 
 ---
 
-### 🚀 GitHub Stats
+### 🔥 Contribution Streaks  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theodevrwanda&theme=radical" alt="theodevrwanda" width="400" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical" alt="theodevrwanda" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theodevrwanda&theme=radical" alt="theodevrwanda streak" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote  
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
