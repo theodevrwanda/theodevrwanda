@@ -61,25 +61,25 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Languages I Use Most
 
-<p align="left">
-  <!-- Most-used language (single) -->
-  <strong>Most used language on GitHub:</strong><br/>
-  <img align="center"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theodevrwanda&layout=compact&langs_count=1&theme=radical"
-       alt="Top language" width="220" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theodevrwanda&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40" alt="theodevrwanda" />
+</p>
+
+---
+
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theodevrwanda&theme=radical" alt="theodevrwanda" width="400" />
 </p>
 
 <br/>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theodevrwanda&theme=radical" alt="theodevrwanda" width="400" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical" alt="theodevrwanda" />
 </p>
-
-<br/>
-
-![Theogene's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical)
 
 ---
 
