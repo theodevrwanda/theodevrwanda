@@ -52,7 +52,7 @@
 
 <br/>
 
-![ Evans' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=evansachie&show_icons=true&theme=radical)
+![ Evans' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical)
 
 
 ### ✍️ Random Dev Quote
