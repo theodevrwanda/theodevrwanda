@@ -1,36 +1,30 @@
 ![github-header-image](https://github.com/AWESOME04/AWESOME04/assets/102630199/a446339b-c8b5-4756-bbe4-ad39c50eae89)
 
+# 👋 Hey, I'm Theogene Iradukunda!
+
 <p>
-  <h3> Few words about Me</h3>
-  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  <h3>Few words about Me</h3>
+  <img align="right" width="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
   
-- 🖥️ Computer Engineering student & Aspiring Full-Stack developer.
-
-- 🔭 I’m currently working on [LifeGuard](https://github.com/evansachie/LifeGuard)
-
-- 🌱 I’m learning **[Full Stack JavaScript on The Odin Project](https://github.com/evansachie/The-Odin-Project)**
-  
-- 🎮 I'm a gamer, and my favorite game genres are: **fps, mmo-rpg, and strategy**
-  
-- 😁✌️ Enthusiastic about UI/UX Design, Full-stack development, and ANIME.
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/evansachie?tab=repositories)
-  
-- 💬 Ask me about **Attack on Titan**
- 
-- 📫 How to reach me: **evansachie01@gmail.com**
-
-- ⚡ Fun fact: **I LOVE ANIME** 
+- 👨🏾‍💻 **Full-Stack Developer** & **Graphic Designer** based in Kigali, Rwanda 🇷🇼
+- 🛠️ Founder & CEO of **[Rwandascratch](https://rwandascratch.theodev.rw)**, building innovative software solutions
+- 🎓 Studying at **Apeki Tumba TSS**, passionate about tech and community impact
+- 🔭 Currently working on **movie streaming platforms**, **e-commerce sites**, and **personal portfolios**
+- 🌱 Learning advanced **React**, **Node.js**, and **cloud technologies** to scale Rwandascratch
+- 🎥 Lover of **video streaming**, **cartoons**, and exploring creative tech
+- 👨‍💻 Check out my projects at [My Portfolio](https://theodevrw.netlify.app)
+- 💬 Ask me about **web development** or **UI/UX design**
+- 📫 Reach me at: **theodevrwanda@gmail.com** or **+250 792 734 752**
+- ⚡ Fun fact: **I’m always sketching new UI designs or binge-watching anime!**
 
 </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/evans-acheampong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evans-acheampong-982315232/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theogene-iradukunda-88b07a381" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/evansachie01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="evansachie01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eva_ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eva_ns" height="30" width="40" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awesome04&label=Profile%20views&color=0e75b6&style=flat" alt="awesome04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theodevrwanda&label=Profile%20views&color=0e75b6&style=flat" alt="theodevrwanda" /> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,22 +32,19 @@
 
 [![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazonaws)](https://www.credly.com/badges/ff9334b4-b390-49c4-96d3-d92999b68a6c/public_url)
 
-
-
 <p align="left">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=evansachie&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40&hide=css&" alt="evansachie" width="400" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theodevrwanda&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40&hide=css&" alt="theodevrwanda" width="400" />
 </p>
 
 <br/>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evansachie&theme=radical" alt="evansachie" width="400" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theodevrwanda&theme=radical" alt="theodevrwanda" width="400" />
 </p>
 
 <br/>
 
-![ Evans' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical)
-
+![Theogene's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
