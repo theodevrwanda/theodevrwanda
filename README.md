@@ -68,18 +68,12 @@
 
 ---
 
-### 📊 GitHub Stats & Languages  
+### 📊 GitHub Stats &  🔥 Contribution Streaks
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical" alt="theodevrwanda stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodevrwanda&layout=compact&theme=buefy&hide_border=true" alt="theodevrwanda languages & tools " />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theodevrwanda&theme=radical" alt="theodevrwanda streak" />
 </p> 
-
- 🔥 Contribution Streaks  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theodevrwanda&theme=radical" alt="theodevrwanda streak" />
-</p>
 
 ---
 
