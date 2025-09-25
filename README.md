@@ -135,21 +135,5 @@
     </tr>
   </table>
 </div>
-</p>
+</p> 
 
-[![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazonaws)](https://www.credly.com/badges/ff9334b4-b390-49c4-96d3-d92999b68a6c/public_url)
-
----
-
-### 📊 GitHub Stats & 🔥 Contribution Streaks
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theodevrwanda&show_icons=true&theme=radical" alt="theodevrwanda stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theodevrwanda&theme=radical" alt="theodevrwanda streak" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-![quote](https://media.licdn.com/dms/image/v2/D4E22AQFGMRmsnc6xvA/feedshare-shrink_1280/B4EZl5_ZxkKsAs-/0/1758688290864?e=1761782400&v=beta&t=geq80jlXPmwAoH0xL5U8w_6q34PkyyAV6NmoitJxpDU)
