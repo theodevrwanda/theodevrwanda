@@ -7,7 +7,7 @@
   <img align="right" width="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
 - 👨🏾‍💻 **Full-Stack Developer** & **Graphic Designer** based in Kigali, Rwanda 🇷🇼
-- 🛠️ Founder & CEO of **[Rwandascratch](https://rwandascratch.theodev.rw)**, building innovative software solutions
+- 🛠️ Founder & CEO of **[NEOSCRATCH](https://neoscratch.com)**, building innovative software solutions
 - 🎓 Studying at **Apeki Tumba TSS**, passionate about tech and community impact
 - 🔭 Currently working on **movie streaming platforms**, **e-commerce sites**, and **personal portfolios**
 - 🌱 Learning advanced **React**, **Node.js**, and **cloud technologies** to scale Rwandascratch
