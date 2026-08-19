@@ -56,11 +56,6 @@ Software solutions and digital services for businesses.
 ### 📦 Apex
 Business management platform for inventory, sales, finance, and operations.
 
-### 🌐 My Portfolio
-Personal portfolio showcasing my software development projects and experience.
-
-🔗 https://theodevrw.netlify.app
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=theodevrwanda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=theodevrwanda&theme=dark&hide_border=false)<br/>
