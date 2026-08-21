@@ -5,17 +5,19 @@
 <p>
   <h3>Few words about Me</h3>
   <img align="right" width="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  
+* 👨🏾‍💻 **Full-Stack Developer** & **Graphic Designer** based in Kigali, Rwanda 🇷🇼
+* 🛠️ Founder & CEO of **[NEOSCRATCH](https://neoscratch.com)**, building practical software solutions for businesses
+* 💼 Professional in **business systems, system operations, e-commerce development, and custom software solutions**
+* 🚀 Building **business management systems, e-commerce platforms, web applications, and personal projects**
+* 🧑🏾‍💻 Experienced with **React, Node.js, Python, Firebase, databases, and modern web technologies**
+* 🏢 Focused on helping businesses **digitize operations, manage their data, sell online, and improve productivity**
+* 🌐 Open to **remote work, freelance projects, software development, and technical support opportunities**
+* 👨‍💻 Check out my projects at **[My Portfolio](https://theodev.pages.dev)**
+* 💬 Ask me about **Full-Stack Development, Business Systems, E-commerce, System Operations, or Technical Support**
+* 📫 Reach me at: **[theodevrwanda@gmail.com](mailto:theodevrwanda@gmail.com)** or **+250 792 734 752**
+* ⚡ Fun fact: **I enjoy turning real business problems into practical software solutions.**
 
-- 👨🏾‍💻 **Full-Stack Developer** & **Graphic Designer** based in Kigali, Rwanda 🇷🇼
-- 🛠️ Founder & CEO of **[NEOSCRATCH](https://neoscratch.com)**, building innovative software solutions
-- 🎓 Studying at **Apeki Tumba TSS**, passionate about tech and community impact
-- 🔭 Currently working on **movie streaming platforms**, **e-commerce sites**, and **personal portfolios**
-- 🌱 Learning advanced **React**, **Node.js**, and **cloud technologies** to scale Rwandascratch
-- 🎥 Lover of **video streaming**, **cartoons**, and exploring creative tech
-- 👨‍💻 Check out my projects at [My Portfolio](https://theodev.pages.dev)
-- 💬 Ask me about **web development** or **UI/UX design**
-- 📫 Reach me at: **theodevrwanda@gmail.com** or **+250 792 734 752**
-- ⚡ Fun fact: **I’m always sketching new UI designs or binge-watching anime!**
 
 </p>
 
